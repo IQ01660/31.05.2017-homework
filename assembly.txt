@@ -1,0 +1,3 @@
+Being a low-level programming language, Assembly has several advantages and disadvantages. I will initiate my describing advantages. 
+Firstly, this language is very close to machine language therefore it does not need as much memory and is relatively more fast than
+ other high level language. Despite having pros there are also cons of this programming language, main one being remoteness of the Assembly from simple portable language.  
